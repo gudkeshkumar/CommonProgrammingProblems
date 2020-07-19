@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:SampleProblemApp/SampleProblemApp.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:LeetCode_Easy.playground">
    </FileRef>
    <FileRef
