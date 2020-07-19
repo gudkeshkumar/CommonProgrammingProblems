@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:LeetCode_Easy.playground">
+   </FileRef>
+   <FileRef
+      location = "group:commonconceptproblems.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Problems2.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Problem - Binary Search.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Problems.playground">
+   </FileRef>
+</Workspace>
